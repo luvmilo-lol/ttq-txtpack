@@ -1,0 +1,227 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "Skybox",
+      "expanded": false,
+      "children": [
+        {
+          "name": "Ft",
+          "replace_ids": [
+            14147882761,
+            12261809766,
+            135908632589654,
+            84214501374682,
+            10196550367,
+            2108482231
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/luvmilo-lol/txt-pack/refs/heads/main/tuki%202.png"
+        },
+        {
+          "name": "Bk",
+          "replace_ids": [
+            2108482005,
+            14147881792,
+            135908632589654,
+            84214501374682,
+            10196550937,
+            12261809766
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 122583318800143
+        },
+        {
+          "name": "Dn",
+          "replace_ids": [
+            2108545280,
+            10196550667,
+            14147882149,
+            103020541883227,
+            89972436184102,
+            12261813110
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 90814115556867
+        },
+        {
+          "name": "Lf",
+          "replace_ids": [
+            14147883091,
+            135908632589654,
+            84214501374682,
+            2108482395,
+            12261809766,
+            10196550128
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 75671660263686
+        },
+        {
+          "name": "Rt",
+          "replace_ids": [
+            14147882405,
+            135908632589654,
+            84214501374682,
+            2108482542,
+            12261809766,
+            10196549902
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 92860891552128
+        },
+        {
+          "name": "Up",
+          "replace_ids": [
+            14147881297,
+            72960281658487,
+            92138082970751,
+            2108482676,
+            10196567794,
+            12261813678
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 132666338666833
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Assests",
+      "expanded": false,
+      "children": [
+        {
+          "name": "Txt",
+          "replace_ids": [
+            7658055825
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/prism658/Resources-fleasion/main/grods.png"
+        },
+        {
+          "name": "Itsuki Nakano - Chicken",
+          "replace_ids": [
+            133917828562858
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/luvmilo-lol/txt-pack/refs/heads/main/6cc936d1ac00ca9b079d0bca6595b69b-removebg-preview.png"
+        },
+        {
+          "name": "Itsuki Nakano - BandoBoy",
+          "replace_ids": [
+            121503061771505
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/luvmilo-lol/txt-pack/refs/heads/main/6cc936d1ac00ca9b079d0bca6595b69b-removebg-preview.png"
+        },
+        {
+          "name": "Itsuki Nakano - N",
+          "replace_ids": [
+            13854780042
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/luvmilo-lol/txt-pack/refs/heads/main/yuki%20my%20wife.png"
+        },
+        {
+          "name": "Delete G",
+          "replace_ids": [
+            13854780213
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "No item background",
+          "replace_ids": [
+            13220167337,
+            13188242420,
+            13220167472,
+            13188153054,
+            13188242287
+          ],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Sounds",
+      "expanded": false,
+      "children": [
+        {
+          "name": "Ohmygah-SuddenDeath",
+          "replace_ids": [
+            17467242617
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/luvmilo-lol/Sounds-over-Df/main/oh-my-gah-osaka-no-background-music.wav"
+        },
+        {
+          "name": "Jump - Df",
+          "replace_ids": [
+            16770456156,
+            16492958314
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/prism658/undertale-txtpack/main/mus_sfx_a_lithit.wav"
+        },
+        {
+          "name": "Ui-sound",
+          "replace_ids": [
+            177266782
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/prism658/undertale-txtpack/main/snd_select.wav"
+        },
+        {
+          "name": "Sata andagi - Df",
+          "replace_ids": [
+            16530229616,
+            16530229541,
+            16530229695
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/luvmilo-lol/Sounds-over-Df/main/saataa-andagii-osaka.wav"
+        },
+        {
+          "name": "Headshot - sound",
+          "replace_ids": [
+            16537337310,
+            16537449730
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/luvmilo-lol/Sounds-over-Df/main/rust-headshot.wav"
+        },
+        {
+          "name": "Day1-Df",
+          "replace_ids": [
+            18239670056,
+            17697682466,
+            17733314783,
+            120824068504773,
+            114306049661290
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://raw.githubusercontent.com/luvmilo-lol/Sounds-over-Df/main/Day%201.mp3"
+        }
+      ]
+    }
+  ]
+}
